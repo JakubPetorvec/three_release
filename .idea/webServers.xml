@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="99511ca3-ad00-4acf-827a-0b3d2ee403fa" name="JVIKTORA - Lighty TEST" url="http://jviktora.cz">
+        <fileTransfer rootFolder="/lighty/test" host="jviktora.cz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
